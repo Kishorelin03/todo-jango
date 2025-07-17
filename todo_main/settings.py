@@ -116,6 +116,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
+# Where Django will look for additional static files
+STATICFILES_DIRS = [
+    BASE_DIR / "static",  # if your static/ is at the project level
+]
+
+# Where collected static files will go during deployment
+STATIC_ROOT = BASE_DIR / "staticfiles"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
