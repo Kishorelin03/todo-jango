@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Django To-Do List App</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      background-color: #f9f9fb;
-      font-family: 'Segoe UI', sans-serif;
-      padding: 2rem;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-      margin-top: 2rem;
-    }
-    code {
-      background: #f1f1f1;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-family: Consolas, monospace;
-    }
-    pre {
-      background: #f1f1f1;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    ul, ol {
-      margin-left: 1.2rem;
-    }
-    .screenshot {
-      max-width: 100%;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      margin: 1rem 0;
-    }
-    .divider {
-      border-top: 2px solid #ddd;
-      margin: 2rem 0;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>📝 Django To-Do List App</h1>
