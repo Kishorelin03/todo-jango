@@ -89,12 +89,7 @@ source env/bin/activate  # or env\Scripts\activate on Windows</code></pre>
 </code></pre>
 
   <div class="divider"></div>
-
-  <h2>📄 License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>.</p>
-
-  <h2>👤 Author</h2>
-  <p>Made with ❤️ by <strong>Your Name</strong></p>
+  
 
 </body>
 </html>
