@@ -45,7 +45,7 @@
   <ol>
     <li>Clone the repository:
       <pre><code>git clone https://github.com/Kishorelin03/todo-jango.git
-cd django-todo-app</code></pre>
+cd todo-jango</code></pre>
     </li>
     <li>Create a virtual environment:
       <pre><code>python -m venv env
