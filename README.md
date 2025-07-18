@@ -19,7 +19,6 @@
   <div class="divider"></div>
 
   <h2>📸 Screenshots</h2>
-  <p><em>Add your own screenshots in a <code>screenshots/</code> folder and replace the placeholders below:</em></p>
   <div class="row">
     <div class="col-md-6">
       <p><strong>Light Mode</strong></p>
@@ -45,7 +44,7 @@
   <h2>⚙️ Getting Started</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/yourusername/django-todo-app.git
+      <pre><code>git clone https://github.com/Kishorelin03/todo-jango.git
 cd django-todo-app</code></pre>
     </li>
     <li>Create a virtual environment:
