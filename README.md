@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>📝 Django To-Do List</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f8f9fa;
-      padding: 40px;
-    }
 
-    h1, h2 {
-      color: #2c3e50;
-    }
-
-    code {
-      background: #eaeaea;
-      padding: 0.2rem 0.4rem;
-      border-radius: 5px;
-    }
-
-    .screenshot {
-      max-width: 100%;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      margin-bottom: 30px;
-    }
-
-    .badge {
-      font-size: 0.9rem;
-    }
-  </style>
-</head>
 <body>
 
   <div class="container">
